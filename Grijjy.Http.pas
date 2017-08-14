@@ -8,7 +8,7 @@ interface
 {$I Grijjy.inc}
 
 //{$DEFINE LOGGING}
-{$DEFINE HTTP2}
+//{$DEFINE HTTP2}
 
 uses
   System.Classes,
